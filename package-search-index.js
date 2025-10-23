@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"me.delwer"},{"l":"me.delwer.abstracts"},{"l":"me.delwer.commands"},{"l":"me.delwer.customEvents"},{"l":"me.delwer.database"},{"l":"me.delwer.listener"},{"l":"me.delwer.managers"}];updateSearchResults();
