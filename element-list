@@ -1,6 +1,7 @@
 me.delwer
 me.delwer.abstracts
 me.delwer.commands
+me.delwer.configs
 me.delwer.customEvents
 me.delwer.database
 me.delwer.listener
